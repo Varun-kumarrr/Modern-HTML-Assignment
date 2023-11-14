@@ -1,0 +1,10 @@
+Question 1 .List out the features of HTML5.
+
+ans:- (1.) video & audio         = HTML 5 has built in functionality for video and audio , developers can embed video and audio on there website.
+      (2.) semantics             = semantic element helps developers to give meaning to different sections of a webpage , this helps browser and search engine better interpret content.
+      (3.) canvas                = canvas element hepls developers to manage graphics of web page and can use javascript to draw graphics
+      (4.) responsive web design = HTML 5 supports all the neccessary tags and styling element to create a responsive design
+      (5.) localstorage          = HTML 5 has the ability to store data on local storage means the developer can create web apps that work offline
+      (6.) Form Enhancement      = HTML 5 introduces new features for your existing forms on HTML to create a more robust user experience. ,
+                                   Some of the key enhancements in the new HTML 5 include new input times such as email, URL, and more, placeholder text, required fields feature, validation
+
