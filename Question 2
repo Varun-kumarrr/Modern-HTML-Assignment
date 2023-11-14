@@ -1,0 +1,13 @@
+Question 2. What are HTML Entities? List out 5 commonly used HTML entities.
+ans:- Some character are reserved in HTML , if you use (<) less that or (>) greater than sign in html it can mix up with tags 
+      to tackle this we use html entities , Entity names or entity numbers can be used to display reserved HTML characters.
+      means to use the reserved signs , character , key words we use html entities
+      syntax entity name = &entity_name;
+            entity number = &#entity_number;
+
+    list of entities that we use frequently are as follow
+       (1.) non breaking space " " =   &nbsp; , &#160; this is use to add spaces , if we want to add more than one spaces between two words we use this entity
+       (2.) less than   "<"        =    &lt; , &#60; this is use to add "<" less than sign   
+       (3.) greater than  ">"      =  &gt; , &#62; this is use to add ">" less than sign
+       (4.) ampersand    "&"       = &amp; , &#38; this is used to add "&" sign
+       (5.) copy right "©"         = &copy; , &#169 this is used to add copy right sign 
