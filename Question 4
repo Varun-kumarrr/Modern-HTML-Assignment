@@ -1,0 +1,15 @@
+question 4. list any 3 ways which help us in improving the accessibility of HTML
+ans:-       Use Semantic HTML Elements: Employ semantic HTML elements to convey the structure and meaning of content. For instance, use <header>, <nav>, <main>, <article>, <section>, and 
+                                        <footer> tags appropriately to outline the document's structure.
+                                        Use heading tags (<h1> to <h6>) to create a hierarchical structure for content. Headings help screen readers and other assistive technologies 
+                                        understand the organization of information on a page.
+
+            Provide Descriptive Text Alternatives (Alt Text): Include descriptive alternative text for images using the alt attribute within the <img> tag. 
+                                                              Alt text is crucial for users who cannot see images, as it provides a text description of the image's content or function.
+                                                              For decorative images that don't convey meaningful content, use empty alt attributes (alt="") to ensure screen readers skip them.
+
+            Create Accessible Forms: Label form elements using the <label> element to associate text labels with form controls. This helps users understand the purpose of each form field.
+                                     Use the aria-label attribute to provide custom labels for form elements if a visible label is not feasible.
+                                     Ensure proper HTML markup for form controls, such as using <input type="text"> for text input fields and <button> for clickable buttons.
+                                     Remember that these are just a few examples, and web accessibility is a comprehensive practice that involves considering various aspects of design, navigation, 
+                                     and interaction. It's important to follow the Web Content Accessibility Guidelines (WCAG) to ensure a more inclusive web experience for all users.
